@@ -43,3 +43,5 @@ Creación de API que nos permita almacenar los registros desde el front-end y qu
 Diseño de la bbdd
 
 Poder incoporar un filtro a la tabla empleados, que me permita visualizar empleados según empresa
+
+Crear una rama para trabajar desde local y otra para GH Pages, ya que el enrutamiento es distinto y necesita una configuracion distinta para local y para GH
