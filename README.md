@@ -30,6 +30,10 @@ Creamos un formulario tanto en Empresas como en Empleados, para agregar nuevos r
 
 Además, incorporamos una tabla para visualizar los dato que traigamos desde la bbdd
 
+Installamos GitHub Pages con el comando npm install --save-dev gh-pages, esto nos permitira desplegar nuestra aplicacion en GitHub
+
+Agregamos una serie de comandos en nuestro package.json, para que funcione correctamente
+
 # Por incorporar
 
 Logica y restricciones para cada formulario, por ejemplo, no es posible agregar nuevos empleados a una empresa que no se encuentre registrada
